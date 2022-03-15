@@ -1,0 +1,5 @@
+<library path="lib/libglobal_planner">
+ <class name="global_planner/ThetaStarBasic1" type="global_planner::ThetaStarBasic1" base_class_type="nav_core::BaseGlobalPlanner">
+   <description> Theta* Basic planner</description>
+ </class>
+</library>

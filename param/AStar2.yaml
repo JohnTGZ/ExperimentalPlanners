@@ -1,0 +1,15 @@
+AStar2:  
+  allow_unknown: false
+  neutral_cost: 50       #cost of moving to an adjacent cell
+  cost_factor: 0.8
+  obstacle_cost_ratio: 1.0
+  default_tolerance: 0.0
+  
+  con8: true #true: 8-connected search, false: 4-connected
+  distance_metric: 1
+  get_path_traceback: 0 #0: parent traceback, 1: min-cost traceback, 2: gradient descent
+  
+  debug: true
+  publish_plan: true
+  publish_potential: true
+  publish_scale: 100

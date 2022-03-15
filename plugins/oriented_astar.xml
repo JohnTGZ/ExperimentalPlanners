@@ -1,0 +1,5 @@
+<library path="lib/libglobal_planner">
+ <class name="global_planner/PathPlanOrientedAS" type="global_planner::PathPlanOrientedAS" base_class_type="nav_core::BaseGlobalPlanner">
+   <description> A* plugin based on the paper "Towards an Orientation Enhanced Astar Algorithm for Robotic Navigation" </description>
+ </class>
+</library>

@@ -1,0 +1,9 @@
+PathPlanTheta:  
+  num_search: 500000
+  allotted_time: 5.0
+  allow_unknown: false
+  obs_cost_ratio: 1.0
+  cost_neutral: 1
+  cost_factor: 0.8
+  # Theta/step: 3
+  Theta/cheap_cost: 100

@@ -1,0 +1,5 @@
+<library path="lib/libglobal_planner">
+ <class name="global_planner/ThetaStarBasic2" type="global_planner::ThetaStarBasic2" base_class_type="nav_core::BaseGlobalPlanner">
+   <description>Basic Theta* plugin based on the paper "THETA*:ANY-ANGLE PATH PLANNING ON GRIDS" </description>
+ </class>
+</library>

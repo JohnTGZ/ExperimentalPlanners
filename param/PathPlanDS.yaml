@@ -1,0 +1,10 @@
+PathPlanDS:  
+  allow_unknown: false 
+  num_search: 500000 
+  allotted_time: 5.0 
+  obs_cost_ratio: 1.0 
+  DS/validate_first: false 
+  DS/step: 3
+  DS/allow_smooth: false
+  DS/cheap_cost: 100
+  publish_plan: true 

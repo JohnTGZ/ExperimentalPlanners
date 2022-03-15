@@ -1,0 +1,5 @@
+<library path="lib/libglobal_planner">
+ <class name="global_planner/Dijkstra2" type="global_planner::Dijkstra2" base_class_type="nav_core::BaseGlobalPlanner">
+   <description>Basic Implementation of Djikstra</description>
+ </class>
+</library>

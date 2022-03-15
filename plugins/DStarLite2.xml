@@ -1,0 +1,5 @@
+<library path="lib/libglobal_planner">
+ <class name="global_planner/DStarLite2" type="global_planner::DStarLite2" base_class_type="nav_core::BaseGlobalPlanner">
+   <description> Basic implementation of D* Lite </description>
+ </class>
+</library>

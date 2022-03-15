@@ -1,0 +1,5 @@
+<library path="lib/libglobal_planner">
+ <class name="global_planner/AStar2" type="global_planner::AStar2" base_class_type="nav_core::BaseGlobalPlanner">
+   <description>A* plugin based on the paper "THETA*:ANY-ANGLE PATH PLANNING ON GRIDS" </description>
+ </class>
+</library>
